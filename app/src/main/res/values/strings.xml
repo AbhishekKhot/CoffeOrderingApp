@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Coffe App</string>
+    <string name="wel_come_to_our_coffe_shop">wel come to our coffe shop</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="choose_your_coffe">Choose your coffe</string>
+    <string name="regular">Regular</string>
+    <string name="black">Black</string>
+    <string name="quantity">Quantity -</string>
+    <string name="valtext">0</string>
+    <string name="_0">0</string>
+    <string name="cream">Cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="coco">Coco</string>
+    <string name="order">order</string>
+    <string name="order_summary">Order summary</string>
+</resources>
